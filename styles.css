@@ -1,0 +1,11 @@
+p {
+    border: 1px green dashed;
+}
+
+h1 {
+    color: green;
+}
+
+.home-page-element{
+    background: grey;
+}
